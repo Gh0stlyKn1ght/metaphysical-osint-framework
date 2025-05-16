@@ -83,3 +83,4 @@ It is my intention that this term — and the framework that supports it — be 
 ---
 
 (*The remainder of this document contains the full Metaphysical OSINT Framework guide, mission logging structure, and symbolic recon tools.*)
+(*This document may serve as a foundational concept for future academic research exploring the integration of cybersecurity, symbolic cognition, and non-physical intelligence gathering.*
