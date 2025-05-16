@@ -1,3 +1,4 @@
+![Metaphysical OSINT Logo]([images/logo.png](https://github.com/Gh0stlyKn1ght/metaphysical-osint-framework/blob/8fb6d831acfd5b9f9a6955e4afc4e71cfbcc9866/assets/c37da324-40a2-4335-bda9-ed1f88f48e51.png))
 # 🚀 Metaphysical OSINT Framework (MOF v1.0)
 
 *A fusion of astral projection, energetic sensing, and open-source intelligence techniques.*
