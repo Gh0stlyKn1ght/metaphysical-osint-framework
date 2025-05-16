@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use Metaphysical OSINT in your research, project, or publication, please cite it as below."
+title: "Metaphysical OSINT Framework (MOF v1.0)"
+authors:
+  - name: Gh0stlyKn1ght
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Independent Researcher"
+date-released: 2025-05-15
+version: "1.0"
+doi: "10.5281/zenodo.1234567"  # Optional: replace with real DOI if published via Zenodo or similar
+license: "CC-BY-4.0"
+url: "https://github.com/Gh0stlyKn1ght/metaphysical-osint-framework"
+repository-code: "https://github.com/Gh0stlyKn1ght/metaphysical-osint-framework"
+keywords:
+  - OSINT
+  - metaphysical intelligence
+  - spiritual intelligence
+  - symbolic cognition
+  - astral projection
+  - cybersecurity
